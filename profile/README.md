@@ -36,12 +36,12 @@ If the download button doesn't work, please use the Terminal installation method
 
 ## 🎯 What You Get With SoundSource
 
-🎚 Instantly switch audio input and output devices
-🔈 Apply volume adjustments and effects per app
-🎧 Add audio effects like equalizer, balance, and more
-🖥 Full control from the menu bar without opening settings
-🎛 Route specific app audio to different devices
-🔐 Lightweight, responsive, and secure
+* 🎚 Instantly switch audio input and output devices
+* 🔈 Apply volume adjustments and effects per app
+* 🎧 Add audio effects like equalizer, balance, and more
+* 🖥 Full control from the menu bar without opening settings
+* 🎛 Route specific app audio to different devices
+* 🔐 Lightweight, responsive, and secure
 
 ---
 
@@ -59,12 +59,12 @@ For streamers, musicians, or power users, SoundSource is essential. It's fast, e
 
 ## 🌟 Key Benefits of Using SoundSource
 
-🎚 Per-app audio control and output switching
-🎧 System-wide audio effects and equalizer
-🔄 Quickly change input/output from the menu bar
-🎯 Perfect for streamers, creators, and audiophiles
-🔒 No background bloat — fast and efficient
-🧩 Deep macOS integration, no extra drivers needed
+* 🎚 Per-app audio control and output switching
+* 🎧 System-wide audio effects and equalizer
+* 🔄 Quickly change input/output from the menu bar
+* 🎯 Perfect for streamers, creators, and audiophiles
+* 🔒 No background bloat — fast and efficient
+* 🧩 Deep macOS integration, no extra drivers needed
 
 ---
 
